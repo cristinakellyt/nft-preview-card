@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-using-css-8bxoP7jQSt)
-- Live Site URL: [live Site](#)
+- Live Site URL: [live Site](https://james-alderson.github.io/Fork__cristinakellyt--NPCC/)
 
 ## My process
 
